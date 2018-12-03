@@ -1,6 +1,7 @@
 ## Before we begin processing UCE data there are a couple of things that needs to be done first:
   
-  1. Get a Mac or Linux machine #Phyluce is not supported on Windows, however Oracle VM     Virtual Box with linux machine installed is a solution. (https://www.virtualbox.org/wiki/Downloads) (https://linuxmint.com/download.php)
+  1. Get a Mac or Linux machine #Phyluce is not supported on Windows, however [Oracle VM Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+  with [linux machine](https://linuxmint.com/download.php) installed is a solution. 
   
   2. Download python 2.X version #Phyluce only run on this version of python
   
