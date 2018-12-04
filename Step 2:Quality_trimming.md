@@ -17,7 +17,7 @@ i5:AATGATACGGCGACCACCGAGATCTACAC*ACACTCTTTCCCTACACGACGCTCTT <br/>
 
 [tag sequences] <br/>
 i7-B3:CAATGTGG <br/> 
-i7-B4:CGGATTGA <br/>   
+i7-B4:CGGATTGA   
 i5-B3:AAGTGTCG <br/>
 i5-B4:TTCGCAGT <br/>
 **Left hand is just shorthand abbreviations, can be set as anything, but always start with alphabet**
