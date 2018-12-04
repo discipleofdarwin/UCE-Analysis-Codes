@@ -1,7 +1,8 @@
 ## Trimming using illumiprocessor:
 
 illumiprocessor --input /full/path/to/folder/containing/all/sequence/results <br/>
---output clean-fastq #can be customize with new path <br/>
+--output clean-fastq <br/> 
+**Can be customize with new path <br/>**
 --config illumiprocessor.conf <br/> 
 --trimmomatic /full/path/to/trimmomatic.jar <br/> 
 **This line is added to make sure program findes trimmomatic, default path might not work on your personal computer.** <br/> 
