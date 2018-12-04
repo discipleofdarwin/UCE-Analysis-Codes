@@ -11,22 +11,22 @@ illumiprocessor --input /full/path/to/folder/containing/all/sequence/results <br
 
 illumiprocessor.conf template for dual index:
 
-[adapters]
-i7:CAAGCAGAAGACGGCATACGAGAT*GTGACTGGAGTTCAGACGTGT
-i5:AATGATACGGCGACCACCGAGATCTACAC*ACACTCTTTCCCTACACGACGCTCTT
+[adapters] <br/>
+i7:CAAGCAGAAGACGGCATACGAGAT*GTGACTGGAGTTCAGACGTGT <br/>
+i5:AATGATACGGCGACCACCGAGATCTACAC*ACACTCTTTCCCTACACGACGCTCTT <br/>
 
 [tag sequences]  
-i7-B3:CAATGTGG    
-i7-B4:CGGATTGA   
-i5-B3:AAGTGTCG
-i5-B4:TTCGCAGT
+i7-B3:CAATGTGG <br/>   
+i7-B4:CGGATTGA <br/>   
+i5-B3:AAGTGTCG <br/>
+i5-B4:TTCGCAGT <br/>
 **Left hand is just shorthand abbreviations, can be set as anything, but always start with alphabet**
 
-[tag map]
-B3_S72:i7-B3,i5-B3
-B4_S73:i7-B4,i5-B4
+[tag map] <br/>
+B3_S72:i7-B3,i5-B3 <br/>
+B4_S73:i7-B4,i5-B4 <br/>
 
 [names]   
-B3_S72:B3
-B4_S73:B4
+B3_S72:B3 <br/>
+B4_S73:B4 <br/>
 **Use this area to change output file name to which ever you desire**
