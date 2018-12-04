@@ -9,7 +9,8 @@
   4. Add developer's repository to your channel list (conda config --add channels http://conda.binstar.org/faircloth-lab)
   
   5. Install phyluce using code: conda install phyluce
-     Creating a virtual environment: conda create --name phyluce phyluce **Recommended**
+  
+  Creating a virtual environment: conda create --name phyluce phyluce **Recommended**
   
   6. Update and upgrade all the programs downloaded to avoid errors
   
