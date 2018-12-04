@@ -11,7 +11,7 @@ illumiprocessor --input /full/path/to/folder/containing/all/sequence/results <br
 
 illumiprocessor.conf template for dual index:
 
-[adapters]
+[adapters] <br/>
 i7:CAAGCAGAAGACGGCATACGAGAT*GTGACTGGAGTTCAGACGTGT <br/>
 i5:AATGATACGGCGACCACCGAGATCTACAC*ACACTCTTTCCCTACACGACGCTCTT <br/>
 
