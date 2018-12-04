@@ -15,7 +15,7 @@ illumiprocessor.conf template for dual index:
 i7:CAAGCAGAAGACGGCATACGAGAT*GTGACTGGAGTTCAGACGTGT <br/>
 i5:AATGATACGGCGACCACCGAGATCTACAC*ACACTCTTTCCCTACACGACGCTCTT <br/>
 
-[tag sequences]
+[tag sequences] <br/>
 i7-B3:CAATGTGG <br/> 
 i7-B4:CGGATTGA <br/>   
 i5-B3:AAGTGTCG <br/>
