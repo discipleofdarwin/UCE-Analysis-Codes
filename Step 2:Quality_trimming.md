@@ -1,12 +1,12 @@
 ## Trimming using illumiprocessor:
 
-illumiprocessor --input /full/path/to/folder/containing/all/sequence/results
+\illumiprocessor --input /full/path/to/folder/containing/all/sequence/results
 --output clean-fastq #can be customize with new path
 --config illumiprocessor.conf 
 --trimmomatic /full/path/to/trimmomatic.jar 
 **This line is added to make sure program findes trimmomatic, default path might not work on your personal computer.** 
 --r1-pattern .*_R1 --r2-pattern .*_R2  
-**. indicates any character while * means repeats however many times, it's a substitute for all your file name infront of R1 and R2 which indicates which foward and reverse read. No need to change! At the same time, do not change the file name of your raw sequence at this step!!!**
+**. indicates any character while * means repeats however many times, it's a substitute for all your file name infront of R1 and R2 which indicates which foward and reverse read. No need to change! At the same time, do not change the file name of your raw sequence at this step!!!**\
 
 
 illumiprocessor.conf template for dual index:
