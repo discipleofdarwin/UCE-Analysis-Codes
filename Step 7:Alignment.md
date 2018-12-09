@@ -3,7 +3,7 @@
 ## Complete
 
 phyluce_align_seqcap_align \\<br/>
-    --fasta /path/to/your/fasta \\
+    --fasta /path/to/your/fasta \\<br/>
     --output /path/for/wherever/you/want/the/output \\<br/>
     --taxa xx \\ <-insert number of taxa<br/>
     --aligner mafft \\<br/>
