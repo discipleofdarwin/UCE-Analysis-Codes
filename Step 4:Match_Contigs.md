@@ -1,6 +1,6 @@
-## This step matches all reads to UCE loci and pick the UCEs out
+# This step matches all reads to UCE loci and pick the UCEs out
 
-# make a log folder
+## make a log folder
 
 phyluce_assembly_match_contigs_to_probes \\ <\br>
     --contigs /path/to/contig/file/generated/by/assembly/program \\<\br>
