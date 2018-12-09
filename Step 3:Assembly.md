@@ -11,7 +11,7 @@ phyluce_assembly_assemblo_abyss \
     
     ## Sample config file
     
-    [samples]
+\[samples]
 sample_name1:/folder/path/to/trimmed/sample
 sample_name2:/folder/path/to/trimmed/sample
 sample_name3:/folder/path/to/trimmed/sample
