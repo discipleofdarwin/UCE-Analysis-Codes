@@ -8,8 +8,8 @@ phyluce_assembly_assemblo_abyss \
     --cores 2 \
     --clean \
     --log-path path/to/where/you/want/the/log/files/log_folder
-    
-    ## Sample config file
+
+## Sample config file
     
 \[samples]
 sample_name1:/folder/path/to/trimmed/sample
