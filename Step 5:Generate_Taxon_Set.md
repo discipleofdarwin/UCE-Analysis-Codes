@@ -13,9 +13,9 @@ phyluce_assembly_get_match_counts \\<br/>
 ## only loci shared by "ALL" 
 phyluce_assembly_get_match_counts \\
     --locus-db /path/to/probe.matches.sqlite \\<br/>
-    --taxon-list-config /path/to/datasets.conf \
-    --taxon-group 'dataset1' \
-    --output /path/to/uce/taxon-set1/dataset1.conf
+    --taxon-list-config /path/to/datasets.conf \<br/>
+    --taxon-group 'dataset1' \<br/>
+    --output /path/to/uce/taxon-set1/dataset1.conf<br/>
 
 
 ## example dataset.conf format
