@@ -1,6 +1,6 @@
 ## This step matches all reads to UCE loci and pick the UCEs out
 
-make a log folder
+# make a log folder
 
 phyluce_assembly_match_contigs_to_probes \\ <\br>
     --contigs /path/to/contig/file/generated/by/assembly/program \\<\br>
@@ -9,4 +9,4 @@ phyluce_assembly_match_contigs_to_probes \\ <\br>
     --log /path/to/the/log/folder/you/made<\br>
     
     
-    [probe set]{http://ultraconserved.org/}
+    [probe set](http://ultraconserved.org/)
