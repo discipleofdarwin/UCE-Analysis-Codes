@@ -15,5 +15,5 @@ phyluce_assembly_get_fastas_from_match_counts \\<br/>
     --contigs /path/to/contig/file \\<br/>
     --locus-db /path/to/probe.matches.sqlite \\<br/>
     --match-count-output /path/to/edited/.conf/file \\<br/>
-    --incomplete-matrix /home/charles/Dropbox/Test1/taxon-set1/dataset1.incomplete \\<br/>
+    --incomplete-matrix /path/to/incomplete/data/generated/in/last/section/dataset1.incomplete \\<br/>
     --output /path/to/where/you/want/the/output/dataset1.fasta<br/>
