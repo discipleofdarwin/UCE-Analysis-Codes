@@ -7,7 +7,7 @@ phyluce_align_seqcap_align \\<br/>
     --output /path/for/wherever/you/want/the/output \\<br/>
     --taxa xx \\ <-insert number of taxa<br/>
     --aligner mafft \\<br/>
-    --cores 2<br/>
+    --cores 2 <-specify number of cores you want to use<br/>
 
 ## Incomplete
 
@@ -17,4 +17,4 @@ phyluce_align_seqcap_align \\<br/>
     --taxa xx \\ <-insert number of taxa<br/>
     --aligner mafft \\<br/>
     --incomplete-matrix \\<br/>
-    --cores 2 <br/>
+    --cores 2 <-specify number of cores you want to use<br/>
