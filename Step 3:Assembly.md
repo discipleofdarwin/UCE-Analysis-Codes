@@ -5,7 +5,7 @@ phyluce_assembly_assemblo_abyss \\<br/>
     --output where/you/want/to/store/the/data/folder_name \\<br/>
     --kmer 35 \  <-between 55~65 recommanded by creator of phyluce<br/>
     --subfolder split-adapter-quality-trimmed \\<br/>
-    --cores 2 \\<br/>
+    --cores 2 \\ <-user can specify core numbers <br/>
     --clean \\<br/>
     --log-path path/to/where/you/want/the/log/files/log_folder
 
