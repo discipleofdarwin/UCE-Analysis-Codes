@@ -8,5 +8,4 @@ phyluce_assembly_match_contigs_to_probes \\ <\br>
     --output /path/to/where/you/want/the/output \\<\br>
     --log /path/to/the/log/folder/you/made<\br>
     
-    
-    [probe set](http://ultraconserved.org/)
+[probe set](http://ultraconserved.org/)
